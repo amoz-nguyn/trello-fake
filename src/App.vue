@@ -9,7 +9,7 @@ import HelloWorld from './components/HelloWorld.vue'
 export default {
   name: 'App',
   components: {
-    HelloWorld 2023
+    HelloWorld 2023 + 2024
   }
 }
 </script>
